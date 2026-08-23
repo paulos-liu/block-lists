@@ -1,6 +1,6 @@
-! Title: Custom Distraction Blocklist
-! Description: News, social media, and shopping sites blocklist for AdGuard
-! Last modified: 2026-08-21
+! Title: Custom Distraction Blocklist (Comprehensive)
+! Description: News, social media, sports, and shopping sites blocklist for AdGuard
+! Last modified: 2026-08-23
 
 ! ----Aggregators----
 ||news.google.com^
@@ -15,8 +15,17 @@
 ||ground.news^
 ||smartnews.com^
 ||inkl.com^
+||digg.com^
+||getpocket.com^
+||instapaper.com^
+||newsbreak.com^
+||msn.com^
+||allsides.com^
+||theskimm.com^
+||morningbrew.com^
+||substack.com^
 
-! ----US National----
+! ----US National News----
 ||cnn.com^
 ||nytimes.com^
 ||washingtonpost.com^
@@ -37,6 +46,17 @@
 ||dailymail.co.uk^
 ||people.com^
 ||tmz.com^
+||thedailybeast.com^
+||salon.com^
+||vice.com^
+||buzzfeed.com^
+||buzzfeednews.com^
+||propublica.org^
+||semafor.com^
+||puck.news^
+||thefp.com^
+||pbs.org^
+||upi.com^
 
 ! ----Politics/Opinion----
 ||politico.com^
@@ -54,6 +74,15 @@
 ||newsmax.com^
 ||oann.com^
 ||dailykos.com^
+||realclearpolitics.com^
+||thefederalist.com^
+||redstate.com^
+||townhall.com^
+||reason.com^
+||jacobin.com^
+||talkingpointsmemo.com^
+||rawstory.com^
+||alternet.org^
 
 ! ----Business/Finance----
 ||wsj.com^
@@ -65,6 +94,15 @@
 ||forbes.com^
 ||fortune.com^
 ||barrons.com^
+||investopedia.com^
+||seekingalpha.com^
+||morningstar.com^
+||benzinga.com^
+||thestreet.com^
+||zerohedge.com^
+||kiplinger.com^
+||fool.com^
+||finance.yahoo.com^
 
 ! ----International----
 ||bbc.com^
@@ -77,6 +115,12 @@
 ||independent.co.uk^
 ||telegraph.co.uk^
 ||economist.com^
+||euronews.com^
+||cbc.ca^
+||japantimes.co.jp^
+||timesofindia.indiatimes.com^
+||straitstimes.com^
+||globalnews.ca^
 
 ! ----Tech----
 ||techcrunch.com^
@@ -92,6 +136,17 @@
 ||9to5mac.com^
 ||404media.co^
 ||theinformation.com^
+||9to5google.com^
+||androidcentral.com^
+||androidpolice.com^
+||macrumors.com^
+||tomshardware.com^
+||pcmag.com^
+||digitaltrends.com^
+||venturebeat.com^
+||thenextweb.com^
+||lifehacker.com^
+||theregister.com^
 
 ! ----Sports----
 ||espn.com^
@@ -120,10 +175,22 @@
 ||skysports.com^
 ||rotowire.com^
 ||fantasypros.com^
-||msn.com^
-||substack.com^
+||sportingnews.com^
+||yardbarker.com^
+||olympics.com^
+||ncaa.com^
+||espncricinfo.com^
 
-! ----Shopping/Social Media----
+! ----Fantasy Sports/Betting----
+||draftkings.com^
+||fanduel.com^
+||betmgm.com^
+||underdogfantasy.com^
+||prizepicks.com^
+||sleeper.com^
+||caesars.com^
+
+! ----Social Media----
 ||facebook.com^
 ||fb.com^
 ||messenger.com^
@@ -154,11 +221,16 @@
 ||telegram.org^
 ||truthsocial.com^
 ||gab.com^
-||slickdeals.net^
-||dealnews.com^
-||woot.com^
-||groupon.com^
-||camelcamelcamel.com^
+||bereal.com^
+||lemon8-app.com^
+||clubhouse.com^
+||vsco.co^
+||rumble.com^
+||gettr.com^
+||minds.com^
+||whatsapp.com^
+
+! ----Shopping: Marketplaces & General Retail----
 ||amazon.com^
 ||a.co^
 ||ebay.com^
@@ -193,7 +265,163 @@
 ||ulta.com^
 ||craigslist.org^
 ||offerup.com^
-||mercari.com^
+
+! ----Shopping: Resale & Secondhand----
 ||poshmark.com^
 ||stockx.com^
 ||goat.com^
+||depop.com^
+||vinted.com^
+||grailed.com^
+||therealreal.com^
+||thredup.com^
+||rebag.com^
+
+! ----Shopping: Fashion & Apparel Brands (DTC + fast fashion)----
+||quince.com^
+||everlane.com^
+||allbirds.com^
+||warbyparker.com^
+||rothys.com^
+||bombas.com^
+||meundies.com^
+||chubbiesshorts.com^
+||outdoorvoices.com^
+||girlfriend.com^
+||vuoriclothing.com^
+||aloyoga.com^
+||beyondyoga.com^
+||fabletics.com^
+||gymshark.com^
+||skims.com^
+||savagex.com^
+||knix.com^
+||adoreme.com^
+||thirdlove.com^
+||stitchfix.com^
+||mejuri.com^
+||aurate.com^
+||catbird.com^
+||cuyana.com^
+||mansurgavriel.com^
+||reformation.com^
+||aritzia.com^
+||untuckit.com^
+||bonobos.com^
+||frankandoak.com^
+||kotn.com^
+||wearpact.com^
+||cutsclothing.com^
+||fahertybrand.com^
+||buckmason.com^
+||taylorstitch.com^
+||toddsnyder.com^
+||mizzenandmain.com^
+||rhone.com^
+||represent.com^
+||publicrec.com^
+||naadam.co^
+||theory.com^
+||jcrew.com^
+||gapfactory.com^
+||madewell.com^
+||anntaylor.com^
+||loft.com^
+||uniqlo.com^
+||hm.com^
+||zara.com^
+||princesspolly.com^
+||edikted.com^
+||oakandfort.com^
+||freepeople.com^
+||urbanoutfitters.com^
+||anthropologie.com^
+||revolve.com^
+||shopbop.com^
+||fashionnova.com^
+||prettylittlething.com^
+||boohoo.com^
+||missguided.com^
+||awaytravel.com^
+||monosluggage.com^
+||beislife.com^
+||calpak.com^
+||paravel.com^
+||nomatic.com^
+
+! ----Shopping: Beauty & Personal Care----
+||glossier.com^
+||rhodeskin.com^
+||functionofbeauty.com^
+||curology.com^
+||theouai.com^
+||kosas.com^
+||merit.co^
+||ilia-beauty.com^
+||tower28beauty.com^
+||freckbeauty.com^
+||summerfridays.com^
+||drunkelephant.com^
+||tatcha.com^
+||tartecosmetics.com^
+||colourpop.com^
+||kyliecosmetics.com^
+||fentybeauty.com^
+||dollarshaveclub.com^
+||harrys.com^
+||mybillie.com^
+||hims.com^
+||forhers.com^
+||nativecos.com^
+||ilmakiage.com^
+
+! ----Shopping: Home, Furniture & Mattress----
+||brooklinen.com^
+||parachutehome.com^
+||bollandbranch.com^
+||buffy.co^
+||snowehome.com^
+||article.com^
+||burrow.com^
+||floydhome.com^
+||interiordefine.com^
+||joybird.com^
+||sabaidesign.com^
+||casper.com^
+||purple.com^
+||leesa.com^
+||saatva.com^
+||tuftandneedle.com^
+||helixsleep.com^
+||nectarsleep.com^
+||avocadogreenmattress.com^
+||eightsleep.com^
+||westelm.com^
+||cb2.com^
+
+! ----Shopping: Deals, Coupons & Cashback----
+||slickdeals.net^
+||dealnews.com^
+||woot.com^
+||groupon.com^
+||camelcamelcamel.com^
+||rakuten.com^
+||joinhoney.com^
+||retailmenot.com^
+||dealspotr.com^
+||dontpayfull.com^
+||coupert.com^
+
+! ----Meal Kits & Food Subscriptions----
+||hellofresh.com^
+||blueapron.com^
+||homechef.com^
+||factor75.com^
+||purplecarrot.com^
+||dailyharvest.com^
+||sunbasket.com^
+||everyplate.com^
+||freshly.com^
+||gobble.com^
+||butcherbox.com^
+||thrivemarket.com^
