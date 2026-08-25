@@ -425,3 +425,86 @@
 ||gobble.com^
 ||butcherbox.com^
 ||thrivemarket.com^
+
+! Title: Custom Media/Streaming Blocklist
+! Description: Video, music, podcast, and streaming media sites blocklist for AdGuard
+! Last modified: 2026-08-24
+
+! ----Video Streaming (Subscription)----
+||youtube.com^
+||youtu.be^
+||netflix.com^
+||hulu.com^
+||disneyplus.com^
+||hbomax.com^
+||max.com^
+||primevideo.com^
+||peacocktv.com^
+||paramountplus.com^
+||tv.apple.com^
+||appletv.com^
+||foxone.com^
+||fox.com^
+||starz.com^
+||amcplus.com^
+||discoveryplus.com^
+||dazn.com^
+
+! ----Anime & Niche/Arthouse Streaming----
+||crunchyroll.com^
+||funimation.com^
+||britbox.com^
+||acorn.tv^
+||mubi.com^
+||criterionchannel.com^
+||curiositystream.com^
+||shudder.com^
+||viki.com^
+||iq.com^
+||wetv.com^
+
+! ----Live TV & Cable Alternatives----
+||philo.com^
+||sling.com^
+||fubo.tv^
+||itvx.com^
+
+! ----Free Ad-Supported Streaming (FAST) & On-Demand----
+||tubitv.com^
+||pluto.tv^
+||roku.com^
+||xumo.tv^
+||samsungtvplus.com^
+||crackle.com^
+||plex.tv^
+||vudu.com^
+||fandango.com^
+||fandangoathome.com^
+
+! ----Music Streaming----
+||spotify.com^
+||music.apple.com^
+||tidal.com^
+||music.amazon.com^
+||deezer.com^
+||qobuz.com^
+||pandora.com^
+||soundcloud.com^
+||iheart.com^
+||bandcamp.com^
+||tunein.com^
+||napster.com^
+
+! ----Podcasts & Audiobooks----
+||podcasts.apple.com^
+||overcast.fm^
+||pocketcasts.com^
+||stitcher.com^
+||podbean.com^
+||audible.com^
+||libro.fm^
+
+! ----Video Sharing & Live Streaming----
+||vimeo.com^
+||dailymotion.com^
+||kick.com^
