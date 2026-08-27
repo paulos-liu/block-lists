@@ -232,6 +232,7 @@
 
 ! ----Shopping: Marketplaces & General Retail----
 ||amazon.com^
+@@||aws.amazon.com^
 ||a.co^
 ||ebay.com^
 ||walmart.com^
