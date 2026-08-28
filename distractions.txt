@@ -492,7 +492,5 @@
 ||libro.fm^
 
 ! ----Video Sharing & Live Streaming----
-||vimeo.com^
-@@||player.vimeo.com^
 ||dailymotion.com^
 ||kick.com^
