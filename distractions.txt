@@ -482,20 +482,6 @@
 ||fandango.com^
 ||fandangoathome.com^
 
-! ----Music Streaming----
-||spotify.com^
-||music.apple.com^
-||tidal.com^
-||music.amazon.com^
-||deezer.com^
-||qobuz.com^
-||pandora.com^
-||soundcloud.com^
-||iheart.com^
-||bandcamp.com^
-||tunein.com^
-||napster.com^
-
 ! ----Podcasts & Audiobooks----
 ||podcasts.apple.com^
 ||overcast.fm^
