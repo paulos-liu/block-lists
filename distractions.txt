@@ -24,6 +24,7 @@
 ||theskimm.com^
 ||morningbrew.com^
 ||substack.com^
+||wikimedia.org^
 ||wikipedia.org^
 
 ! ----US National News----
