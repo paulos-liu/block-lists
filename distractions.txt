@@ -494,3 +494,6 @@
 ! ----Video Sharing & Live Streaming----
 ||dailymotion.com^
 ||kick.com^
+
+! ----Custom----
+||wikipedia.org^
