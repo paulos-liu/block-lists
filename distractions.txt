@@ -24,6 +24,7 @@
 ||theskimm.com^
 ||morningbrew.com^
 ||substack.com^
+||wikipedia.org^
 
 ! ----US National News----
 ||cnn.com^
@@ -494,6 +495,3 @@
 ! ----Video Sharing & Live Streaming----
 ||dailymotion.com^
 ||kick.com^
-
-! ----Custom----
-||wikipedia.org^
